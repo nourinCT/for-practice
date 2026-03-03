@@ -70,3 +70,10 @@ for (let i = 31; i <= 34; i++) {
 for (let i = 35; i <= 39; i++) {
     console.log(i);
 }
+for (let i = 19; i <= 22; i++) {
+    console.log(i);
+}
+for (let i = 11; i <= 14; i++) {
+    console.log(i);
+}
+//
