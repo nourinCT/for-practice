@@ -42,3 +42,42 @@ const education = ['pratomik', 'maddomik', 'secondary'];
 for (let i = 0; i < education.length; i++) {
     console.log(education[i]);
 }
+//
+let kaj = ['mati kata', 'gas kata', 'dan kata'];
+for (let i = 0; i < kaj.length; i++) {
+    console.log(kaj[i]);
+}
+//
+let subject = ['Bangla', 'English', 'Gonit'];
+for (let i = 0; i < subject.length; i++) {
+    console.log(subject[i]);
+}
+//
+let flower = ['Gada', 'Bali', 'Red Rose'];
+for (let i = 0; i < flower.length; i++) {
+    console.log(flower[i]);
+}
+let metarial = ['Table', 'Rolar', 'Stan'];
+for (let i = 0; i < metarial.length; i++) {
+    console.log(metarial[i]);
+}
+//
+let electic = ['Multiflug', 'Mobile', 'Laptop'];
+for (let i = 0; i < electic.length; i++) {
+    console.log(electic[i]);
+}
+//
+let box = ['gul box', 'circle box', 'somotol box'];
+for (let i = 0; i < box.length; i++) {
+    console.log(box[i]);
+}
+//
+let gun = ['Shor gun', 'Hand gun', 'Genarul gun'];
+for (let i = 0; i < gun.length; i++) {
+    console.log(gun[i]);
+}
+//
+let lock = ['Gate lock', 'Door lock', 'Folder lock'];
+for (let i = 0; i < lock.length; i++) {
+    console.log(lock[i]);
+}

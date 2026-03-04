@@ -77,3 +77,6 @@ for (let i = 11; i <= 14; i++) {
     console.log(i);
 }
 //
+for (let i = 77; i <= 71; i ++) {
+    console.log(i)
+}
