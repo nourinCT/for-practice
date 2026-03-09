@@ -77,6 +77,25 @@ for (let i = 11; i <= 14; i++) {
     console.log(i);
 }
 //
-for (let i = 77; i <= 71; i ++) {
+for (let i = 77; i <= 71; i++) {
     console.log(i)
+}
+//
+for (let i = 3; i <= 5; i++) {
+    console.log(i);
+}
+for (let i = 13; i <= 15; i++) {
+    console.log(i);
+}
+for (let i = 17; i <= 19; i++) {
+    console.log(i);
+}
+for (let i = 21; i <= 23; i++) {
+    console.log(i);
+}
+for (let i = 25; i <= 27; i++) {
+    console.log(i);
+}
+for (let i = 33; i <= 35; i++) {
+    console.log(i);
 }

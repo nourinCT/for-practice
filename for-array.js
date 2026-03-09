@@ -81,3 +81,33 @@ let lock = ['Gate lock', 'Door lock', 'Folder lock'];
 for (let i = 0; i < lock.length; i++) {
     console.log(lock[i]);
 }
+//
+const villa = ['House', 'Appartment', 'Rental House'];
+for (let i = 0; i < villa.length; i++) {
+    console.log(villa[i]);
+}
+//
+const colors = ['Red', 'Blue', 'Green'];
+for (let i = 0; i < colors.length; i++) {
+    console.log(colors[i]);
+}
+//
+const phone = ['Button Phone', 'iPhone', 'Moto Phone'];
+for (let i = 0; i < phone.length; i++) {
+    console.log(phone[i]);
+}
+//
+const editor = ['Vs edit', 'Note edit', 'Claude edit'];
+for (let i = 0; i < editor.length; i++) {
+    console.log(editor[i]);
+}
+//
+const pen = ['Bol pen', 'Kut pencil', 'Long pen'];
+for (let i = 0; i < pen.length; i++) {
+    console.log(pen[i]);
+}
+//
+const numbers = ["48", "52", "69", "71", "24"];
+for (let i = 0; i < numbers.length; i++) {
+    console.log(numbers[i]);
+}
